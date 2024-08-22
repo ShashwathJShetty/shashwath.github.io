@@ -24,7 +24,9 @@ align-items: center;
 flex: 1;
 padding: 0 2rem;
 }
-
+table, th, td {
+    border: 1px solid black;
+  }
 .photo img {
 max-width: 100%;
 height: auto;
